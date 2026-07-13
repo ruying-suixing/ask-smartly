@@ -1,12 +1,12 @@
 export const appName = '提问的智慧';
 export const docsRoute = '/docs';
 export const docsContentRoute = '/llms.mdx/docs';
-export const siteUrl = 'https://how-to-ask.liushen.fun';
-export const author = 'LiuShen';
-export const brandName = '清羽飞扬';
+export const siteUrl = 'https://smartask.rusin7.com';
+export const author = 'rusin';
+export const brandName = '如形';
 
 export const gitConfig = {
-  user: 'LiuShen-Fork',
-  repo: 'How-To-Ask-Questions-The-Smart-Way',
+  user: 'ruying-suixing',
+  repo: 'ask smartly',
   branch: 'main',
 };

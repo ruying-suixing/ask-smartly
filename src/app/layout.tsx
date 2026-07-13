@@ -10,9 +10,9 @@ export const metadata: Metadata = {
   },
   description: '一份关于技术提问、求知姿态与协作伦理的三语言阅读指南。',
   metadataBase: new URL(siteUrl),
-  authors: [{ name: 'LiuShen', url: 'https://www.liushen.fun' }],
-  creator: 'LiuShen',
-  publisher: '清羽飞扬',
+  authors: [{ name: 'rusin', url: 'https://www.rusin7.com' }],
+  creator: 'rusin',
+  publisher: '如形',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon.ico',

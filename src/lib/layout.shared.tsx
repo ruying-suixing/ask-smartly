@@ -28,14 +28,14 @@ export function baseOptions(locale: Locale = 'zh'): BaseLayoutProps {
       {
         type: 'main',
         text: links.home,
-        url: 'https://www.liushen.fun/',
+        url: 'https://www.rusin7.com/',
         external: true,
         active: 'none',
       },
       {
         type: 'main',
         text: links.blog,
-        url: 'https://blog.liushen.fun/',
+        url: 'https://blog.rusin7.com/',
         external: true,
         active: 'none',
       },
