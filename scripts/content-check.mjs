@@ -36,6 +36,6 @@ assert.equal(counts['zh-tw'], counts.zh, 'Traditional Chinese and Simplified Chi
 assert.equal(counts.en, counts.zh, 'English and Simplified Chinese document counts must match');
 
 const shared = readFileSync(join(root, 'src/lib/shared.ts'), 'utf8');
-assert.match(shared, /how-to-ask\.rusin\.fun/, 'canonical domain must be configured');
+assert.match(shared, /smartask\.rusin7\.com/, 'canonical domain must be configured');
 assert.match(shared, /rusin/, 'author must be configured');
 assert.match(shared, /如形/, 'brand name must be configured');

@@ -7,6 +7,6 @@ export const brandName = '如形';
 
 export const gitConfig = {
   user: 'ruying-suixing',
-  repo: 'ask smartly',
+  repo: 'ask-smartly',
   branch: 'main',
 };
